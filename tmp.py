@@ -1,1 +1,4 @@
-print(type(4**5))
+import re
+
+s = '122345'
+print(bool())
